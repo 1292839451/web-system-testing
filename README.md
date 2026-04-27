@@ -36,7 +36,7 @@
 | openpyxl | Excel 报告生成 |
 | Chromium | Playwright 浏览器 |
 | mcp__MiniMax__understand_image | 验证码识别（必须使用此工具，禁止 OCR） |
-| Playwright MCP | 浏览器自动化（Claude Code 内置） |
+| Playwright MCP | 浏览器自动化 |
 
 ## 安装
 
