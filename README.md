@@ -1,9 +1,8 @@
-<img width="1869" height="245" alt="image" src="https://github.com/user-attachments/assets/36045a04-dcad-4a15-8dc4-07699bec101d" />
-<img width="355" height="580" alt="image" src="https://github.com/user-attachments/assets/80f70881-97d3-4038-90a2-f80ae417ad80" />
-
 # Web System Testing Skill
 
 网页系统自动化测试技能。适用于对网页系统/网页应用的增删改查功能进行功能测试、验证表单提交和业务流程、生成标准化测试报告。
+<img width="1869" height="245" alt="image" src="https://github.com/user-attachments/assets/36045a04-dcad-4a15-8dc4-07699bec101d" />
+<img width="355" height="580" alt="image" src="https://github.com/user-attachments/assets/80f70881-97d3-4038-90a2-f80ae417ad80" />
 
 ## 核心能力
 
