@@ -104,3 +104,17 @@ Skill 自动执行：环境预检 → 信息确认 → 用例制定 → 测试�
 
 详细规则见 SKILL.md。
 
+## 如何使用
+
+1：下载压缩包并解压，将解压路径给到AI，让它帮你安装
+2：问答框内输入 /web-system-testing 进入skill提问环节
+3：给它相关测试信息：
+示例：
+   - 系统URL：系统地址
+   - 账号：admin
+   - 密码：root2025
+   - 轮次：第一轮
+   - 模块：如果是功能测试，给具体模块或整个平台；如果是业务测试，则给他具体业务，建议建一个txt文件，给他完整业务；如果两者都要，就直接明说都要测试并且给到具体业务
+     <img width="885" height="260" alt="image" src="https://github.com/user-attachments/assets/949fdd37-1fc0-4ca8-b106-af4bcfed0a4e" />
+
+
